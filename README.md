@@ -11,6 +11,12 @@ Waterday is a plant watering reminder for iPhone. Tell it how often each plant n
 
 📲 **App Store — coming soon** (currently in review)
 
+## Screenshots
+
+| Today | Plants | Care Log | Lock Screen |
+|:---:|:---:|:---:|:---:|
+| ![Today](docs/screenshots/today.png) | ![Plants](docs/screenshots/plants.png) | ![Care Log](docs/screenshots/detail.png) | ![Lock Screen](docs/screenshots/lockscreen.png) |
+
 ## Features
 
 - 💧 **Today, at a glance** — every plant that needs water, one tap to mark it watered
