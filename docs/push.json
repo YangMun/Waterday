@@ -1,0 +1,9 @@
+{
+  "aps": {
+    "alert": {
+      "title": "3 plants need water today",
+      "body": "A quick drink keeps them happy."
+    },
+    "sound": "default"
+  }
+}
