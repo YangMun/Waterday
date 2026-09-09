@@ -9,7 +9,7 @@ Waterday is a plant watering reminder for iPhone. Tell it how often each plant n
 
 ## Download
 
-📲 **App Store — coming soon** (currently in review)
+📲 **App Store — "https://apps.apple.com/kr/app/waterday-plant-care-reminder/id6799635366"
 
 ## Screenshots
 
